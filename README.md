@@ -14,7 +14,7 @@
 
 > [A short quote or motto that represents you — or just delete this line]
 
-I'm a **[3rd]-year Computer Science student** at [Angeles University].
+I'm a **[3rd]-year Computer Science student** at [Angeles University Foundation].
 I love turning ideas into code, especially when it involves [Student Prediciton].
 
 ---
@@ -24,10 +24,10 @@ I love turning ideas into code, especially when it involves [Student Prediciton]
      This shows visitors you're actively growing.             -->
 ## What I'm up to
 
-- 🔨 Building → [current project or idea]
-- 📖 Learning → [language, framework, or concept]
+- 🔨 Building → [Student Prediction of At-risk and High Performing Student using Random Forest with Explainable AI]
+- 📖 Learning → [Python]
 - 🤝 Open to → [internships / collaborations / open source]
-- 🎯 Goal this year → [your 2025 goal, e.g. land my first internship]
+- 🎯 Goal this year → [Finish Thesis]
 
 ---
 
@@ -69,11 +69,11 @@ Who is it for? What was the hardest part to build?]
 
 ```
 const [yourName] = {
-  pronouns:    "[he/him | she/her | they/them]",
-  university:  "[University Name]",
-  loves:       ["coding", "[hobby]", "[hobby]"],
-  currentMood: "[your current mood or status]",
-  askMeAbout:  ["[topic]", "[topic]", "[topic]"]
+  pronouns:    "[he/him]",
+  university:  "[Angeles University Foundation]",
+  loves:       ["coding", "Football", "Drums"],
+  currentMood: "Sleepy",
+  askMeAbout:  ["Football", "Drums", "Cycling"]
 }
 ```
 
